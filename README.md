@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Devesh Anand 👋
 
-<!--
-**deb811/deb811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate - Bhagalpur College of Engineering
 
-Here are some ideas to get you started:
+💻 Skills
+- C++
+- Data Structures & Algorithms
+- React.js
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+- MERN Stack
+- Backend Development
+
+🚀 Projects
+- DSA Repository
+- React Weather App
+
+🔗 LinkedIn
+https://www.linkedin.com/in/devesh-anand-68856232a
+
+📫 GitHub
+https://github.com/deb811
